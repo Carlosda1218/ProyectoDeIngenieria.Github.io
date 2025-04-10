@@ -4,9 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // ================================
+        
         // Inicializar Historial Médico
-        // ================================
+        
         ArrayList<String> medicamentosActuales = new ArrayList<>();
         ArrayList<String> alergias = new ArrayList<>();
         ArrayList<String> cirugias = new ArrayList<>();
